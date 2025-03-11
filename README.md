@@ -1,6 +1,6 @@
-# Lab Equipement Manuals
+# Lab Equipment Manuals
 
-My collection of scanned lab equipement manuals published at the [Internet Archive](https://archive.org/details/@themprovementguy).
+My collection of scanned lab equipment manuals published at the [Internet Archive](https://archive.org/details/@themprovementguy).
 
 ## Philips
 
